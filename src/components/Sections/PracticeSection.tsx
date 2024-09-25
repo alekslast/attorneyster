@@ -15,7 +15,7 @@ import decorImg from "../../assets/images/decorImg.svg";
 
 export default function PracticeSection() {
     return (
-        <section className="flex flex-row justify-center items-center bg-[#161D27] pt-[120px] pb-28">
+        <section className="w-screen flex flex-row justify-center items-center bg-[#161D27] pt-[120px] pb-28">
             <div className="w-[1360px]">
                 <div className="w-full flex flex-row justify-between mb-8">
                     <div className="w-1/2 flex flex-col">

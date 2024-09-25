@@ -6,6 +6,10 @@ type TPracticeAreaCard = {
     image       :   string
 }
 
+
+
+
+
 export default function PracticeAreaCard({
     name,
     description,
