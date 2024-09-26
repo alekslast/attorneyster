@@ -32,6 +32,15 @@ import pinterestIcon from "../assets/images/pinterestIcon.svg";
 
 
 
+import blogImg1 from "../assets/images/BlogImgs/blogImg1.png";
+import blogImg2 from "../assets/images/BlogImgs/blogImg2.png";
+import blogImg3 from "../assets/images/BlogImgs/blogImg3.png";
+import blogImg4 from "../assets/images/BlogImgs/blogImg4.png";
+import blogImg5 from "../assets/images/BlogImgs/blogImg5.png";
+import blogImg6 from "../assets/images/BlogImgs/blogImg6.png";
+
+
+
 
 
 export const practiceCardInfo = [
@@ -241,10 +250,45 @@ export const experts = [
 
 export const posts = [
     {
-        image: '',
-        domain: '',
-        date: '',
-        title: '',
-        shortInfo: '',
-    }
+        image: blogImg1,
+        domain: 'Corporate Law',
+        date: 'Friday, February 4, 2022',
+        title: 'How to Tell Who Is at Fault in a Car Accident',
+        shortInfo: 'Capitalize on low-hanging fruit to identify a ballpark value added matrix economically activity to beta test override the digital.',
+    },
+    {
+        image: blogImg2,
+        domain: 'Legal Advice',
+        date: 'Friday, February 4, 2022',
+        title: 'When Sue Outside of Workers’ Compensation',
+        shortInfo: 'Strategies on low-hanging fruit to identify a ballpark value added activity matrix economically to beta test override the digital.',
+    },
+    {
+        image: blogImg3,
+        domain: 'Social Justice',
+        date: 'Friday, February 4, 2022',
+        title: 'Social Media Postings Lead to Defense Verdict',
+        shortInfo: 'Collaborative on low-hanging fruit to identify a ballpark value added activity to beta matrix economically test override the digital.',
+    },
+    {
+        image: blogImg4,
+        domain: 'Corporate Law',
+        date: 'Friday, February 4, 2022',
+        title: 'Riding solo to the rescue of her beloved nonprofits',
+        shortInfo: 'Podcasting on low-hanging fruit to identify a ballpark value added activity to beta test override matrix economically the digital.',
+    },
+    {
+        image: blogImg5,
+        domain: 'Legal Advice',
+        date: 'Friday, February 4, 2022',
+        title: 'Case Filed on Behalf of Injured Tugboat Worker',
+        shortInfo: 'Efficiently on low-hanging fruit to identify a ballpark value added activity to beta test matrix economically override the digital.',
+    },
+    {
+        image: blogImg6,
+        domain: 'Social Justice',
+        date: 'Friday, February 4, 2022',
+        title: 'How Companies Choose Legal Representation',
+        shortInfo: 'Objectively on low-hanging fruit to identify a ballpark value added activity to beta matrix economically test override the digital.',
+    },
 ];
